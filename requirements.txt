@@ -21,7 +21,7 @@ yfinance==0.2.35
 requests==2.31.0
 
 # Broker API  
-upstox-python-sdk==2.1.0
+upstox-python-sdk==2.19.0
 
 # AI
 groq==0.4.1
