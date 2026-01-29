@@ -1,0 +1,35 @@
+# VolGuard 3.3 Backend Dependencies
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+pydantic==2.5.3
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+websockets==12.0
+
+# Data & Analytics
+pandas==2.1.4
+numpy==1.26.3
+scipy==1.11.4
+scikit-learn==1.4.0
+
+# Volatility Models
+arch==6.2.0
+
+# Market Data
+yfinance==0.2.35
+requests==2.31.0
+
+# Broker API  
+upstox-python-sdk==2.1.0
+
+# AI
+groq==0.4.1
+
+# Database
+sqlite3  # Built-in
+
+# Utils
+pytz==2023.3.post1
+python-dateutil==2.8.2
+psutil==5.9.7
